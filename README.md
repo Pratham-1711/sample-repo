@@ -1,4 +1,4 @@
 # sample-repo
 this is a sample repo
 <br>
-Author  - Pratham Budhiraja 
+Author  - Pratham Budhiraja
